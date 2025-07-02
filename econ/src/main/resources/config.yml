@@ -1,0 +1,20 @@
+# Default config for EconomyPlus
+currency-symbol: "$"
+default-loan-amount: 500
+default-interest-rate: 0.10
+default-due-days: 7
+prices:
+  DIAMOND: 100
+  COBBLESTONE: 0.25
+  WHEAT: 5
+  ZOMBIE_FLESH: 1
+  OAK_LOG: 2
+jobs:
+  break:
+    DIAMOND_ORE: 50
+    GOLD_ORE: 30
+    CROPS: 5
+  kill:
+    ZOMBIE: 10
+    SKELETON: 8
+    CREEPER: 15

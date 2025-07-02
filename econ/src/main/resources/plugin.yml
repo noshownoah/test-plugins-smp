@@ -1,0 +1,19 @@
+name: EconomyPlus
+version: 1.0
+main: me.vanilla.econ.EconomyPlus
+api-version: 1.20
+depend: [Citizens]
+commands:
+  balance:
+    description: Check your current bank balance
+  deposit:
+    description: Deposit money into your bank account
+  withdraw:
+    description: Withdraw money from your bank account
+  pay:
+    description: Send money to another player
+  loan:
+    description: Take, repay, or check the status of a loan
+  sell:
+    description: Sell the item you're holding or your inventory
+    usage: /sell [all]

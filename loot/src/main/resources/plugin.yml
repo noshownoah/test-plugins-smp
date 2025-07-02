@@ -1,0 +1,6 @@
+name: UniqueLoot
+version: 1.0
+main: com.vanilla.uniqueloot.UniqueLoot
+api-version: 1.21
+description: Random unique loot per player for vanilla structure chests.
+author: Vanilla
